@@ -1,4 +1,4 @@
 # DevOps-Project
 This is test Repo
 
-Readme.md just edited manually. This file was modified locally.
+This line wa modified manully during conflicts resolutions
