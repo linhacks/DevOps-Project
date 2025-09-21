@@ -1,1 +1,3 @@
 Just another file created in the feature-1 branch
+
+This line was added in feature-2 branch
